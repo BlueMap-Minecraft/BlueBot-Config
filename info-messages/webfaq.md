@@ -1,6 +1,6 @@
 ---
-id: webfaq
 description: How can i access my map?
+everyone: true
 ---
 
 ### Where can I open my map?
