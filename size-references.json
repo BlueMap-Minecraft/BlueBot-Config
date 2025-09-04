@@ -1,40 +1,38 @@
-{
-    "references": {
-        "overworld": {
-            "name": "Overworld *(default)*",
-            "x": 20000,
-            "z": 20000,
-            "size": 31
-        },
-        "overworld-2d": {
-            "name": "Overworld *(2D only)*",
-            "x": 20000,
-            "z": 20000,
-            "size": 7.9
-        },
-        "overworld-lowres": {
-            "name": "Overworld *(lowres only)*",
-            "x": 20000,
-            "z": 20000,
-            "size": 0.3
-        },
-        "overworld-caves": {
-            "name": "Overworld *(with caves)*",
-            "x": 20000,
-            "z": 20000,
-            "size": 81
-        },
-        "nether": {
-            "name": "Nether *(default settings)*",
-            "x": 10000,
-            "z": 10000,
-            "size": 11.6
-        },
-        "end": {
-            "name": "The End",
-            "x": 10000,
-            "z": 10000,
-            "size": 2.6
-        }
+[
+    {
+        "name": "Overworld *(default)*",
+        "x": 20000,
+        "z": 20000,
+        "size": 31
+    },
+    {
+        "name": "Overworld *(2D only)*",
+        "x": 20000,
+        "z": 20000,
+        "size": 7.9
+    },
+    {
+        "name": "Overworld *(lowres only)*",
+        "x": 20000,
+        "z": 20000,
+        "size": 0.3
+    },
+    {
+        "name": "Overworld *(with caves)*",
+        "x": 20000,
+        "z": 20000,
+        "size": 81
+    },
+    {
+        "name": "Nether *(default settings)*",
+        "x": 10000,
+        "z": 10000,
+        "size": 11.6
+    },
+    {
+        "name": "The End",
+        "x": 10000,
+        "z": 10000,
+        "size": 2.6
     }
-}
+]
