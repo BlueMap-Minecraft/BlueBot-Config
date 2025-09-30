@@ -16,4 +16,4 @@ However, those chunks do look a bit less good than the ones close by.
 
 You can increase the distance at which the hires chunks show, by going into the BlueMap settings menu on the website, and bumping up the render distance slider labelled "hires layer".
 You can also increase the "lowres layer" slider, to see even further into the distance, but with the lower quality 3D models instead.
-Please keep in mind that this will be very intense on the device computer that you are viewing the map on, as it really is quite heavy to render so many high quality chunks
+Please keep in mind that this will be very intense on the device that you are viewing the map on, as it really is quite heavy to render so many high quality chunks.
