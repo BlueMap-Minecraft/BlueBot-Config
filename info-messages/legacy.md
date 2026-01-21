@@ -6,7 +6,7 @@ everyone: true
 BlueMap's latest versions don't support Minecraft 1.12.2 anymore. Even older Minecraft versions were never supported.  
 The last version that supported 1.12.2 was [BlueMap v1.5.5](<https://github.com/BlueMap-Minecraft/BlueMap/releases/tag/v1.5.5>).
 
-This version is **extremly old**, it released **<t:1624633260:R>**!  
+This version is **extremely old**, it released **<t:1624633260:R>**!  
 Mod support is really difficult and tedious to configure and you most likely won't get much help with it since we all simply forgot how it worked :D
 
 **In short: Don't use it!**  
