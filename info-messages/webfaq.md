@@ -6,7 +6,7 @@ everyone: true
 ### How can I open my map?
 By default, use your servers public ip-address (e.g. `123.45.67.8`) and the port (`8100`) like this:  
 `http://123.45.67.8:8100/`  
-and enter that in your browsers address bar.  
+and enter that in your internet browser's address bar.  
 
 Make sure you replace `123.45.67.8` with **your** server-ip. *(The same ip that you are using to connect to your minecraft-server.)*  
 And replace `8100` with the port you assigned to bluemap.
