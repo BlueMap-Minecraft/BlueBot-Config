@@ -12,5 +12,5 @@ Here is a guide on how to set it up:
 <https://bluemap.bluecolored.de/wiki/getting-started/Installation.html#using-bluemap-on-the-cli--standalone>
 
 If you don't know what "command-line program" means, or if you're not comfortable with them, or just don't want to deal with them, a community member has created a graphical (GUI) program that makes it super simple to use BlueMap on single-player worlds:
-<https://github.com/TechnicJelle/BlueMapGUI>
+<https://TechnicJelle.com/BlueMapGUI>
 If you would like some help with this program, you can ping `@TechnicJelle` in <#863844716047106068> with your question :)
