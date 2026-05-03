@@ -5,3 +5,4 @@ everyone: true
 
 In BlueMap's settings-menu are two sliders for `Render-Distance`. Using those, you can change how much terrain BlueMap will load at once.
 It's just like the view-distance in Minecraft's settings :)
+https://cdn.discordapp.com/attachments/922788955701772298/1500573407417467021/image.png?ex=69f8ed63&is=69f79be3&hm=d2abf611158b60e43da891b417f415c201e1f87cd04faa79a1bca8d2359ebf0b&
