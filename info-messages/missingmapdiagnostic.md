@@ -10,8 +10,10 @@ To diagnose chunks not appearing on the map, let's try these diagnostic steps:
 4. Restart the server fully
 5. Wait a couple minutes
 6. Do `/bluemap` and verify that the render threads are idle (if not, wait longer until they are)
-7. Open the map, and click the `Update Map` button
-8. Is the unrendered area now rendered?
+  If you are using the CLI, read the logs, verify that the render threads are idle (if not, wait longer until they are)
+8. Open the map, and click the `Update Map` button
+9. Is the unrendered area now rendered?
 
 Please also send the output of
 `/bluemap debug map <map> x z`
+-# If you are using the mod/plugin. If you're using the CLI, you cannot do this sadly
