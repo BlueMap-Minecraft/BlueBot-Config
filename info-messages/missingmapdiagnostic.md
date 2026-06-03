@@ -4,7 +4,7 @@ everyone: true
 ---
 
 To diagnose chunks not appearing on the map, let's try these diagnostic steps:
-1. Pick a location in the world that isn't rendered but _should_ be rendered.
+1. Pick a location in the world that _isn't_ rendered but _should_ be rendered.
 2. Send the outputs of `/bluemap debug world [map] [x y z]` and `/bluemap debug map [map] [x z]`, where the coordinates are of the spot you picked in step 1.
   -# If you are using the mod/plugin. If you're using the CLI, you cannot do this sadly...
 3. Join your server.
