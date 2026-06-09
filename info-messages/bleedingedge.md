@@ -3,7 +3,7 @@ description: Explains how to download the latest BlueMap build from GitHub
 everyone: true
 ---
 
-If you accept a potentially unstable experience (even more unstable than snapshots or pre-releases), then you can try using the latest development build of BlueMap:
+If you accept a **potentially unstable** experience, then you can try using the **latest development build** of BlueMap:
 1. Make sure you have a GitHub account and are logged in
 2. Then you can go to this link: <https://github.com/BlueMap-Minecraft/BlueMap/actions/workflows/build.yml?query=branch%3Amaster+event%3Apush>
 3. Open the newest successful Build workflow run (Click the top one that has a ✅ next to it)
